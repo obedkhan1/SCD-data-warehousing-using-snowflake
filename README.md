@@ -4,7 +4,7 @@
 This project implements a real-time data pipeline for continuous data ingestion and transformation into a Snowflake data warehouse. It leverages various cloud technologies to achieve Change Data Capture (CDC) and Slowly Changing Dimensions (SCD) for historical data management.
 
 
-### Tech Stack:
+### technology infrastructure :
 ➔ Languages: Python3, JavaScript, SQL </br>
 ➔ Services: NiFi, Amazon S3, Snowflake, Amazon EC2, Docker
 
